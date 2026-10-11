@@ -495,3 +495,49 @@ AI環境へ移植する場合、最低限以下の情報を引き継ぐ。
 AVALANCHE 5.0 — SETRA / MISHIRO
 
 World Canon · Character Identity · Eternal Bond
+
+---
+
+## 13｜設定ファイルへの直接リンク
+
+本リポジトリの各資料への索引。
+各リンクはmainブランチ内の実ファイルを指す。
+
+AIは、リンク先の本文を実際に取得できた場合のみ、その資料を参照済みとして扱う。
+READMEを読んだだけで全資料を読んだものとはみなさない。
+
+### 起動・世界観・人物・時系列
+
+- [00_LoadSequence_Avalanche.txt](./00_LoadSequence_Avalanche.txt)
+- [01_Avalanche_WorldCore_v1.0.txt](./01_Avalanche_WorldCore_v1.0.txt)
+- [02_Avalanche_Characters_v1.0.txt](./02_Avalanche_Characters_v1.0.txt)
+- [03_SetraMishiro_Relations_v1.0.txt](./03_SetraMishiro_Relations_v1.0.txt)
+- [04_本編前.txt](./04_%E6%9C%AC%E7%B7%A8%E5%89%8D.txt)
+- [05_アバランチ時系列・統合版](./05_%E3%82%A2%E3%83%8F%E3%82%99%E3%83%A9%E3%83%B3%E3%83%81%E6%99%82%E7%B3%BB%E5%88%97_%E7%B5%B1%E5%90%88%E7%89%88_%E7%AC%AC1%E7%AB%A0%E3%80%9C.txt)
+
+### 人格・外見・進化・戦闘
+
+- [06_セトラ反応辞典.txt](./06_%E3%82%BB%E3%83%88%E3%83%A9%E5%8F%8D%E5%BF%9C%E8%BE%9E%E5%85%B8.txt)
+- [07_セトラ脳内会議+口調ルール.txt](./07_%E3%82%BB%E3%83%88%E3%83%A9%E8%84%B3%E5%86%85%E4%BC%9A%E8%AD%B0%2B%E5%8F%A3%E8%AA%BF%E3%83%AB%E3%83%BC%E3%83%AB.txt)
+- [09_セトラ ミシロ外見設定.txt](./09_%E3%82%BB%E3%83%88%E3%83%A9%20%E3%83%9F%E3%82%B7%E3%83%AD%E5%A4%96%E8%A6%8B%E8%A8%AD%E5%AE%9A.txt)
+- [10_ミシロ変容.txt](./10_%E3%83%9F%E3%82%B7%E3%83%AD%E5%A4%89%E5%AE%B9.txt)
+- [11_融合進化記録.txt](./11_%E8%9E%8D%E5%90%88%E9%80%B2%E5%8C%96%E8%A8%98%E9%8C%B2.txt)
+- [12_セトラ、ミシロ戦闘スタイル.txt](./12_%E3%82%BB%E3%83%88%E3%83%A9%E3%80%81%E3%83%9F%E3%82%B7%E3%83%AD%E6%88%A6%E9%97%98%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB.txt)
+
+### 本編・夫婦関係・拡張資料
+
+- [14_忘れ得ぬ夜明け.txt](./14_%E5%BF%98%E3%82%8C%E5%BE%97%E3%81%AC%E5%A4%9C%E6%98%8E%E3%81%91.txt)
+- [15_本当の夫婦へ.txt](./15_%E6%9C%AC%E5%BD%93%E3%81%AE%E5%A4%AB%E5%A9%A6%E3%81%B8.txt)
+- [16_セトラ→ミシロ 対応原則：癖.txt](./16_%E3%82%BB%E3%83%88%E3%83%A9%E2%86%92%E3%83%9F%E3%82%B7%E3%83%AD%20%E5%AF%BE%E5%BF%9C%E5%8E%9F%E5%89%87%EF%BC%9A%E7%99%96.txt)
+- [17_R18オノマトペ.txt](./17_R18%E3%82%AA%E3%83%8E%E3%83%9E%E3%83%88%E3%83%98%E3%82%9A.txt)
+- [18_R-18代表エピソード全集](./18_R-18%E4%BB%A3%E8%A1%A8%E3%82%A8%E3%83%92%E3%82%9A%E3%82%BD%E3%83%BC%E3%83%88%E3%82%99%E5%85%A8%E9%9B%86.txt)
+- [19_Avalanche_R18_Extension_v4.0_CORE.txt](./19_Avalanche_R18_Extension_v4.0_CORE.txt)
+- [20_Avalanche_Consensual_Somnophilia_Extension.txt](./20_Avalanche_Consensual_Somnophilia_Extension.txt)
+- [20_Avalanche_Operational_Playbook_v3.4-R18.txt](./20_Avalanche_Operational_Playbook_v3.4-R18.txt)
+- [22_クリエイティブモジュール](./22_%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%86%E3%82%A3%E3%83%95%E3%82%99%E3%83%A2%E3%82%B7%E3%82%99%E3%83%A5%E3%83%BC%E3%83%AB.txt)
+
+### 追加形態・ビジュアル
+
+- [Mishiro_Visual_Reference_Sheet.png](./Mishiro_Visual_Reference_Sheet.png)
+- [Setra_Visual_Reference_Sheet.png](./Setra_Visual_Reference_Sheet.png)
+- [エテルネア・ラプチャー・セトラ概念](./%E3%82%A8%E3%83%86%E3%83%AB%E3%83%8D%E3%82%A2%E3%83%BB%E3%83%A9%E3%83%95%E3%82%9A%E3%83%81%E3%83%A3%E3%83%BC%E3%83%BB%E3%82%BB%E3%83%88%E3%83%A9%E6%A6%82%E5%BF%B5.txt)
